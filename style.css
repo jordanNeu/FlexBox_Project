@@ -1,0 +1,7 @@
+body {
+    font-family: 'Roboto', 'Open Sans', 'Helvetica Neue', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
