@@ -1,6 +1,8 @@
 # FlexBox_Project
 Had a little fun with the assigned template
 Definitely learned a lot about flexbox in the process, the things that I found difficult in the previous assignments are now less difficult :)
+
+
 Monkey image sources:
 https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSlxm4VXj7gg80cjGYtgXXdD7yw-qtM0Lyqg&usqp=CAU
 
